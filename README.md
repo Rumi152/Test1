@@ -1,2 +1,1 @@
 # OOMSharingIsCaring
-Open OutOfMilk.exe
